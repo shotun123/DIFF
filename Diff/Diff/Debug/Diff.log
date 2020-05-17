@@ -1,0 +1,6 @@
+﻿  Source.c
+C:\Users\wesle\OneDrive\C223\Diff\Diff\Source.c(381,28): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\wesle\OneDrive\C223\Diff\Diff\Source.c(381,28): warning C4024: 'tolower': different types for formal and actual parameter 1
+C:\Users\wesle\OneDrive\C223\Diff\Diff\Source.c(382,28): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+C:\Users\wesle\OneDrive\C223\Diff\Diff\Source.c(382,28): warning C4024: 'tolower': different types for formal and actual parameter 1
+  Diff.vcxproj -> C:\Users\wesle\OneDrive\C223\Diff\Debug\Diff.exe
